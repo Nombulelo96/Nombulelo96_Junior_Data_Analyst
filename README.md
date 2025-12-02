@@ -73,4 +73,4 @@ Repo:https://github.com/Nombulelo96/Rural-Health-Tracker
 
 📬 Contact Me
 E-mail: lelomahlangu96@gmail.com
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/nombulelo-mahlangu/
