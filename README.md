@@ -69,7 +69,7 @@ Repo:https://github.com/Nombulelo96/Loan-Application
 3. Rural Health Tracker
 
 Objective: Analyze health trends in rural areas to highlight gaps in access, common illnesses, and community risk factors.
-Repo:
+Repo:https://github.com/Nombulelo96/Rural-Health-Tracker
 
 📬 Contact Me
 E-mail: lelomahlangu96@gmail.com
