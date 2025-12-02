@@ -59,7 +59,7 @@ Providing insights to support internal decision-making
 1. Students' Performance & Habits Analysis
 
 Objective: Identify how study habits, attendance, and personal factors impact student performance.
-Repo: 
+Repo: https://github.com/Nombulelo96/Students-Habits-and-Performance
 
 2. Loan Application Insights
 
