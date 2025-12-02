@@ -64,7 +64,7 @@ Repo: https://github.com/Nombulelo96/Students-Habits-and-Performance
 2. Loan Application Insights
 
 Objective: Explore approval patterns, risk indicators, and borrower characteristics to support data-driven lending decisions.
-Repo:
+Repo:https://github.com/Nombulelo96/Loan-Application
 
 3. Rural Health Tracker
 
