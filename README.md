@@ -2,8 +2,8 @@
 Hi there 👋 I'm Nombulelo Mahlangu
 
 🎓 Current Role: Data Analytics Intern
-📘 Currently Learning: Python for data analysis, Power BI, Excel automation, dashboard development
-🚀 Aspiring: Data Analyst / Business Intelligence Analyst
+📘 Currently Learning: Python for data analysis, Power BI, Excel and dashboard development
+🚀 Aspiring: Data Analyst 
 💡 Passionate About: Turning data into meaningful insights, building dashboards, and using analytics to solve real-world problems.
 
 🛠 Tech Stack
